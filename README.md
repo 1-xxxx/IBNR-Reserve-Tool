@@ -1,4 +1,4 @@
-# Modern IBNR Reserving Tool
+# IBNR Reserving Tool
 
 An actuarial tool that simulates modern insurance loss triangles from 2017-2016 and calculates **Incurred But Not Reported (IBNR)** reserves using the volume-averaged **Chainladder method**. 
 
